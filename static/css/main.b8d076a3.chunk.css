@@ -1,0 +1,2 @@
+.tabs__list{list-style-type:none;display:flex;grid-gap:10px;gap:10px;padding:0}.tabs__item{background-color:#fff;border:1px solid #000;cursor:pointer;transition:background-color .2s linear;border-radius:10%;font-size:18px}.active{background-color:#888}.tabs__item:hover{background-color:#c7c5c5}
+/*# sourceMappingURL=main.b8d076a3.chunk.css.map */
